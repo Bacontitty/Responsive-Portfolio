@@ -19,7 +19,6 @@ portfolio-website/
 │   │-- media/        # Afbeeldingen en andere media
 │-- .gitignore        # Bestand om ongewenste bestanden uit Git te houden
 │-- README.md         # Documentatie
-│-- LICENSE           # (optioneel) Kies bijvoorbeeld MIT-licentie
 
 
 ## 🚀 Gebruikte technologieën
@@ -41,10 +40,3 @@ Er is geen installatie nodig, omdat dit een statische website is.
 ✅ Smooth scroll-animaties met ScrollReveal  
 ✅ Volledig responsive  
 ✅ Gebruiksvriendelijke navigatie  
-
-## 🖼️ Screenshots
-![Portfolio voorbeeld](assets/media/screenshot.png)
-
-## 📩 Contact
-📧 [Email](mailto:jouwemail@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/jouwnaam)
