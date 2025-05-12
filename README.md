@@ -30,7 +30,7 @@ portfolio-website/
 ## 🛠 Installatie
 1. **Clone de repository:
    
-   git clone https://github.com/gebruikersnaam/portfolio-website.git
+   git clone https://github.com/Bacontitty/Responsive-Portfolio.git
   
 3. **Open 'index.html' in de browser.**  
 Er is geen installatie nodig, omdat dit een statische website is.
