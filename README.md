@@ -5,7 +5,7 @@ Mijn persoonlijke portfolio website
 Dit is mijn persoonlijke portfolio-website gebouwd met **HTML, CSS en JavaScript**. De site bevat animaties met **ScrollReveal.js** en is volledig responsive.
 
 ## 🌍 Live Demo
-[Bekijk de website](https://gebruikersnaam.github.io/portfolio-website)
+[Bekijk de website](https://100159.stu.sd-lab.nl/portfolio/index.html)
 
 ## 💁‍️ Projectstructuur
 
